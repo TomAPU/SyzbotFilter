@@ -1,9 +1,6 @@
-<span style="color:green">
-警告：该项目的 README 和代码几乎由 GPT-4o 与 GPT-01 自动生成，包括蔡徐坤相关的梗（我也不清楚 GPT 为什么会加这个）。
+$${\color{green}警告：该项目的 README 和代码几乎由 GPT-4o 与 GPT-01 自动生成，包括蔡徐坤相关的梗（我也不清楚 GPT 为什么会加这个）。}$$
 
-凡由碳基生物撰写的文档（如这一部分）将以绿色标示。本文档的图片亦由碳基生物亲自截图。
-
-</span>
+$${\color{green} 凡由碳基生物撰写的文档（如这一部分）将以绿色标示。本文档的图片亦由碳基生物亲自截图。}$$
 
 
 # SyzbotFilter
@@ -38,7 +35,7 @@
 ## 📍 注意事项
 
 - 默认**跳过超大页面** [`/upstream/fixed/`](https://syzkaller.appspot.com/upstream/fixed/)，防止浏览器爆炸
-- 可自定义 `@match` 和 `@exclude` 控制脚本生效范围 <span style="color:green"> （这部分是油猴插件脚本自己支持的事情，不要信 AI 在这里说的话）</span>
+- 可自定义 `@match` 和 `@exclude` 控制脚本生效范围 <span style="color:green"> $${\color{green}（这部分是油猴插件脚本自己支持的事情，不要信 AI 在这里说的话。）}$$
 - 黑名单匹配为**不区分大小写**
 
 ---
